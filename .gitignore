@@ -97,3 +97,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 /cmake-build-debug/CMakeCache.txt
+/cmake-build-debug/cmake_install.cmake
+/cmake-build-debug/CMakeFiles/TargetDirectories.txt

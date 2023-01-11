@@ -1,3 +1,0 @@
-/home/maximus/Прога_для_души/gitHub/C/hyper-n/cmake-build-debug/CMakeFiles/hyper_n.dir
-/home/maximus/Прога_для_души/gitHub/C/hyper-n/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/maximus/Прога_для_души/gitHub/C/hyper-n/cmake-build-debug/CMakeFiles/rebuild_cache.dir

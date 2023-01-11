@@ -3,4 +3,4 @@ project(hyper_n C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(hyper_n main.c)
+add_executable(hyper_n main.c hyperLibMax.c hyperLibMax.h)

@@ -14,12 +14,12 @@ int main() {
     start = clock();
     printf("result = %d\n",hyper_n(num1,num2,grade));
     end = clock();
-    execution_time = ((double)(end - start));
+    execution_time = ((double)(end - start))/CLOCKS_PER_SEC;
     printf("time1: %f\n", execution_time);
     start = clock();
     printf("result = %d\n", hyperN(num1,num2,grade));
     end = clock();
-    execution_time1 = ((double)(end - start));
+    execution_time1 = ((double)(end - start))/CLOCKS_PER_SEC;
     printf("time2: %f\n", execution_time1);
     printf("how much first func faster than second = %f",execution_time1/execution_time);
     return 0;

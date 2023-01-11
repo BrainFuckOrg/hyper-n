@@ -10,4 +10,5 @@ int hyperN(int number1, int number2, int n){
     }
     if(number2 == 1)
         return number1;
+    return hyperN(number1,hyperN(number1,number2-1, n), n-1);
 }

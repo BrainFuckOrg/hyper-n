@@ -1,4 +1,4 @@
-# Install script for directory: /home/maximus/Прога_для_души/gitHub/C/hyper-n
+# Install script for directory: /home/kosenko/randomProjects/hyper-n/hyper-n
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/maximus/Прога_для_души/gitHub/C/hyper-n/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kosenko/randomProjects/hyper-n/hyper-n/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

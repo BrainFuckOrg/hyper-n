@@ -23,3 +23,8 @@ def hyper_n_norecursion(num1, num2, grade):
                 stack.append((result, g-1, 1))
         #print(stack, result)
     return result
+def tetration(num1, num2):
+    result=num1
+    for i in range(1, num2):
+        result=num1**result
+    return result
